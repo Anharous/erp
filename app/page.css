@@ -1,0 +1,54 @@
+.login_header{
+  background-color:#00afff;
+}
+
+.login_modules{
+  display: grid;
+  grid-auto-flow: row;
+  justify-content: center;
+}
+
+.pair_module{
+      display: grid;
+    grid-auto-flow: column;
+    gap: 52px;
+    align-items: center;
+}
+
+.module, .module_admin, .module_student{
+  border-radius: 157px;
+    width: 247px;
+    height: 247px;
+    border: solid 2px black;
+    text-align: center;
+    align-items: center;
+  
+
+}
+.module_admin{
+      margin: 42px 286px 0px;
+}
+
+.module_student{
+      margin: 0px 286px 42px;
+}
+.login{
+  border: solid 2px black;
+    width: 177px;
+    height: 157px;
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    border-radius: 35px;
+}
+
+.img{
+      width: 121px;
+    padding-top: 32px;
+}
+
+.module p, .module_admin p, .module_student p{
+        font-size: 29px;
+    margin-top: 10px;
+}

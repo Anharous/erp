@@ -1,0 +1,75 @@
+/* .container{
+     background: radial-gradient(circle, rgba(78,104,232,1) 35%, rgba(219,70,252,1) 100%);
+     background: radial-gradient(circle, rgba(85,60,226,1) 42%, rgba(78,156,232,1) 95%);
+} */
+.loginpage{
+    display: grid;
+    grid-auto-flow: column;
+    max-width: 845px;
+    width: 100%;
+    height: 424px;
+    margin: 145px 329px;
+    background-color: white;
+    
+}
+
+.loginleft{
+    padding: 35px;
+    background-color: #00afff;
+
+}
+
+.loginright{
+    padding: 51px 36px;
+    border: solid 2px #00afff;
+}
+
+#user_id, #password{
+    width: 279px;
+    height: 40px;
+    border-radius: 12px;
+    /* color: #6d1bb9; */
+
+}
+
+.user, .password{
+    margin-bottom: 20px;
+
+}
+
+.user label, .password label{
+    font-size: 20px;
+}
+
+.loginleft h2{
+    font-size: 32px;
+}
+
+.loginpage p{
+    font-size: 21px;
+}
+
+.login_logo{
+    display: grid;
+    grid-auto-flow: column;
+}
+.login_logo h1{
+    font-size: 28px;
+    padding-left: 17px;
+}
+
+form{
+    display: grid;
+
+}
+
+.button{
+    background-color: #00afff;
+    border: none;
+    height: 40px;
+    margin-top: 10px;
+    width: 95px;
+    place-self: center;
+    border-radius: 9px;
+    font-size: 17px;
+}
