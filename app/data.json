@@ -1,0 +1,53 @@
+{   
+    "studentone":
+        {
+            "img":"/studentone.pgn",
+            "name":"Abinaya K",
+            "admission":"12345678",
+            "rollno":"2022PECCB101",
+            "class":"III 'A' ",
+            "degree":"Under Graduate",
+            "department":"Department of Computer Science and Business System",
+            "course":"B.Tech Computer Science and Business System"
+        },
+    "studentwo":    {
+            "img":"/studentone.pgn",
+            "name":"Abinaya K",
+            "admission":"12345678",
+            "rollno":"2022PECCB101",
+            "class":"III 'A' ",
+            "degree":"Under Graduate",
+            "department":"Department of Computer Science and Business System",
+            "course":"B.Tech Computer Science and Business System"
+        },
+      "studentthree": {
+            "img":"/studentone.pgn",
+            "name":"Abinaya K",
+            "admission":"12345678",
+            "rollno":"2022PECCB101",
+            "class":"III 'A' ",
+            "degree":"Under Graduate",
+            "department":"Department of Computer Science and Business System",
+            "course":"B.Tech Computer Science and Business System"
+        },
+     "studentfour":  {
+            "img":"/studentone.pgn",
+            "name":"Abinaya K",
+            "admission":"12345678",
+            "rollno":"2022PECCB101",
+            "class":"III 'A' ",
+            "degree":"Under Graduate",
+            "department":"Department of Computer Science and Business System",
+            "course":"B.Tech Computer Science and Business System"
+        },
+     "studentfive":   {
+            "img":"/studentone.pgn",
+            "name":"Abinaya K",
+            "admission":"12345678",
+            "rollno":"2022PECCB101",
+            "class":"III 'A' ",
+            "degree":"Under Graduate",
+            "department":"Department of Computer Science and Business System",
+            "course":"B.Tech Computer Science and Business System"
+        }
+}
